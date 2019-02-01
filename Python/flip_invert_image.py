@@ -15,7 +15,7 @@ def flipAndInvertImage(A):
         :type A: List[List[int]]
         :rtype: List[List[int]]
         """
-
+        
         results = []
 
         for image in A:
@@ -30,10 +30,6 @@ def flipAndInvertImage(A):
 
         print(results)
             
-
-
-
-
 def main():
     A = [[1,1,0],[1,0,1],[0,0,0]]
     flipAndInvertImage(A)
