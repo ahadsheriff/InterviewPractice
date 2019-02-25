@@ -7,6 +7,8 @@
 #  2. STRING prefixString
 #  3. STRING suffixString
 #
+
+
 def calculateScore(text, prefixString, suffixString):
     score = len(text)
     result = {}
