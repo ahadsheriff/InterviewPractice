@@ -1,4 +1,4 @@
-CREATE TABLE EMPLOYEE
+CREATE TABLE employees
 (
     ID int,
     NAME char(255),
@@ -8,7 +8,7 @@ CREATE TABLE EMPLOYEE
     PRIMARY KEY(ID)
 );
 
-INSERT INTO EMPLOYEE (
+INSERT INTO employees (
     ID,
     NAME,
     EMAIL char(255),
@@ -23,7 +23,7 @@ VALUES (
     4405
 );
 
-INSERT INTO EMPLOYEE (
+INSERT INTO employees (
     ID,
     NAME,
     EMAIL char(255),
@@ -37,7 +37,7 @@ VALUES (
     'I_love_bob'
     2559
 );
-INSERT INTO EMPLOYEE (
+INSERT INTO employees (
     ID,
     NAME,
     EMAIL char(255),
@@ -51,7 +51,7 @@ VALUES (
     'red_sox1'
     1151
 );
-INSERT INTO EMPLOYEE (
+INSERT INTO employees (
     ID,
     NAME,
     EMAIL char(255),
@@ -65,7 +65,7 @@ VALUES (
     'fido.is_mydog1'
     4685
 );
-INSERT INTO EMPLOYEE (
+INSERT INTO employees (
     ID,
     NAME,
     EMAIL char(255),
@@ -79,7 +79,7 @@ VALUES (
     'telracS_2221988'
     2350
 );
-INSERT INTO EMPLOYEE (
+INSERT INTO employees (
     ID,
     NAME,
     EMAIL char(255),
@@ -93,7 +93,7 @@ VALUES (
     'salty_spitoon25'
     16000
 );
-INSERT INTO EMPLOYEE (
+INSERT INTO employees (
     ID,
     NAME,
     EMAIL char(255),
@@ -107,7 +107,7 @@ VALUES (
     'Password_1'
     25000
 );
-INSERT INTO EMPLOYEE (
+INSERT INTO employees (
     ID,
     NAME,
     EMAIL char(255),
@@ -121,7 +121,7 @@ VALUES (
     'pineapple_way'
     1000
 );
-INSERT INTO EMPLOYEE (
+INSERT INTO employees (
     ID,
     NAME,
     EMAIL char(255),
@@ -135,7 +135,7 @@ VALUES (
     'noShirtGang'
     200
 );
-INSERT INTO EMPLOYEE (
+INSERT INTO employees (
     ID,
     NAME,
     EMAIL char(255),
